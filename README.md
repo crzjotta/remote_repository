@@ -15,7 +15,7 @@ Obs: se for Windows tem que baixar o Git Bash https://git-scm.com/downloads
  ``
  - Digite o código acima no terminal (ou Bash)
  
-  Agora deve aparecer (master) no final do path no terminal e o arquivo ``package.json`` deve ter sido criado na pasta.
+  Agora deve aparecer (master) no final do path no terminal.
  
  ### O link esta feito
  
