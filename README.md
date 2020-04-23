@@ -34,9 +34,9 @@ Agora os arquivos da pasta estão na area de "staging"
  - Para puxar arquivos do repositório para o computador use o pull:
  ``git pull origin nome_da_branch``
  
- -Extra 
- -
- ``git status`` mostra o status dos arquivos presentes na pasta.
+ #### Extra
  
- Se ela não estiver linkada com um repositório git aparecerá a seguinte mensagem:
+ - ``git status`` mostra o status dos arquivos presentes na pasta.
+ 
+ - Se ela não estiver linkada com um repositório git aparecerá a seguinte mensagem:
  ``fatal: not a git repository (or any of the parent directories): .git``
