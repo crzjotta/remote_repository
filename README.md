@@ -1,11 +1,11 @@
-#Passo a passo de como linkar um projeto do DESKTOP com um repositório remoto no Github
+# Passo a passo de como linkar um projeto do DESKTOP com um repositório remoto no Github
 
 Obs: se for Windows tem que baixar o Git Bash https://git-scm.com/downloads
 
 
-##No Terminal (Git Bash p/ Windows)
+## No Terminal (Git Bash p/ Windows)
 
-- Navegue até a pasta do arquivo usando o comando ``cd``
+ - Navegue até a pasta do arquivo usando o comando ``cd``
  - Digite o comando ``git init``
  - Crie um novo repositório na sua conta do GitHub sem o arquivo README.md
  - Copie a URL do seu novo repositório e coloque no final do código abaixo
@@ -16,10 +16,10 @@ Obs: se for Windows tem que baixar o Git Bash https://git-scm.com/downloads
  
  Agora deve aparecer (master) no final do path no terminal e o arquivo ``package.json`` deve ter sido criado na pasta.
  
- ###O link esta feito
+ ### O link esta feito
  
  
- -Para adicionar os arquivos da pasta ao GitHub digite: ``git add .``
+ - Para adicionar os arquivos da pasta ao GitHub digite: ``git add .``
  (Para Windows deve aparecer a seguinte mensagem: 
  ``warning: LF will be replaced by CRLF in package.json.
 The file will have its original line endings in your working directory``)
