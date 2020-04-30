@@ -41,3 +41,6 @@ The file will have its original line endings in your working directory``)
  
  - Se ela não estiver linkada com um repositório git aparecerá a seguinte mensagem:
  ``fatal: not a git repository (or any of the parent directories): .git``
+ 
+ 
+ ##### Para mais, ver  ``GitComands.md``
